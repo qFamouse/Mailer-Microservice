@@ -20,8 +20,8 @@ class Mailer {
         })
     }
     // Public Methods //
-    SendMail(subject, text, html, ...to) {
-        this.#transporter.sendMail({
+    async SendMail(subject, text, html, ...to) {
+        await this.#transporter.sendMail({
             from: config.email,
             to: to,
             subject: subject,
