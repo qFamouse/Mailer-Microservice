@@ -1,7 +1,7 @@
 # Mailer-Microservice
 [Student Work] Microservice for sending messages to the mail
 
-![alt-текст](https://i.ytimg.com/vi/K5xwMrScJvE/maxresdefault.jpg "Текст заголовка логотипа 1")
+![alt-текст](https://i.ytimg.com/vi/K5xwMrScJvE/maxresdefault.jpg)
 
 ## Usage
 1. Update [configuration file](https://github.com/qFamouse/Mailer-Microservice/blob/master/src/config/appsettings.json "Mailer-Microservice/src/config/appsettings.json") to connect successfully
